@@ -1,0 +1,22 @@
+{
+  "name": "chat-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^17.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.10"
+  }
+}

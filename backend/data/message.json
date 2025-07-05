@@ -1,0 +1,64 @@
+[
+  {
+    "user": "John",
+    "pwd": "hell_055",
+    "messageHistory": [
+      {
+        "msg": "I know you are concerned but I am not as my real self. ",
+        "time": "2025-07-04T22:33:19.547Z"
+      },
+      {
+        "msg": "Heyyy",
+        "time": "2025-07-04T23:15:12.506Z"
+      },
+      {
+        "msg": "WhatsUppp",
+        "time": "2025-07-04T23:15:20.466Z"
+      },
+      {
+        "msg": "I am new here",
+        "time": "2025-07-04T23:24:00.310Z"
+      },
+      {
+        "msg": "How is everything going",
+        "time": "2025-07-04T23:24:08.910Z"
+      },
+      {
+        "msg": "How is everything going",
+        "time": "2025-07-04T23:25:04.286Z"
+      },
+      {
+        "msg": "Hi I am new in here",
+        "time": "2025-07-04T23:26:49.543Z"
+      },
+      {
+        "msg": "Any advice??!",
+        "time": "2025-07-04T23:26:58.937Z"
+      },
+      {
+        "msg": "Heyyyy",
+        "time": "2025-07-04T23:34:40.053Z"
+      }
+    ]
+  },
+  {
+    "user": "Johm",
+    "pwd": "hell",
+    "messageHistory": [
+      {
+        "msg": "So I heard",
+        "time": "2025-07-04T22:08:00.752Z"
+      },
+      {
+        "msg": "Are you okay!!.. I am just concerned about you!!! Thats All",
+        "time": "2025-07-04T22:08:29.304Z"
+      }
+    ]
+  },
+  null,
+  {
+    "user": "User1Temp",
+    "pwd": "abcdefg",
+    "messageHistory": []
+  }
+]
